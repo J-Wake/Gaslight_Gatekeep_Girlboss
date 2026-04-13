@@ -8,3 +8,5 @@ Secondary dataset: SAT and ACT data for each state ( available online, easy to d
 question to answer : how federal funding correlates with ACT and SAT scores
 
 https://worldpopulationreview.com/state-rankings/per-pupil-spending-by-state
+
+put sources here so we can keep a list
