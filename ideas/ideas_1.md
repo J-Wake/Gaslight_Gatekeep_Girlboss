@@ -4,3 +4,8 @@ Julienne Wakefield Idea
 - Use the years 2021-2026 maybe
 
 Secondary Dataset could be state poverty/ economic levels?
+
+- education (act/sat)
+- Medicare 
+- department of agriculture (welfare)
+- veteran benefits 
