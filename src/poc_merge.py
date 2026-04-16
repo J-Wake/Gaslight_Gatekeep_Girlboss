@@ -19,3 +19,5 @@ renamed_sat2 = renamed_sat1.rename(columns={'2022 Mean scr': '2022 SAT Avg'})
 renamed_sat3 = renamed_sat2.rename(columns={'2023 Mean scr': '2023 SAT Avg'})
 renamed_sat4 = renamed_sat3.rename(columns={'2024 Mean scr': '2024 SAT Avg'})
 renamed_sat = renamed_sat4.rename(columns={'2025 Mean scr': '2025 SAT Avg'})
+
+print(f'the length of the orginal dataset for 2024 is 578888')
