@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Rachel Y. Kim <m283420@usna.edu>"]
+channels = ["conda-forge"]
+name = "sd212"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+pipeline = "bash pipeline.sh"
+
+[dependencies]
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.10.8,<4"
+numpy = ">=2.4.0,<3"
+plotly = ">=6.5.0,<7"
+
+
+# from dr roche's pixi.toml
