@@ -22,3 +22,8 @@ Additional Research for Analysis
 - https://www.masteryprep.com/blog/reading-proficiency-growth-jackson-county-schools/#:~:text=Following%20the%20benchmark%20practice%20test,with%20teachers%20once%20a%20month.
 - https://www.heraldtribune.com/story/news/education/2024/05/03/florida-high-schools-top-100-rankings/73557364007/#:~:text=1%20in%20Florida:%20Pine%20View,teacher%20ratio%20is%2016:1.
 - https://www.dpi.nc.gov/districts-schools/office-research-promising-practices
+
+- https://worldpopulationreview.com/state-rankings/per-pupil-spending-by-state
+- https://num8ers.com/guides/average-sat-score-by-state/
+- https://nces.ed.gov/programs/digest/d23/tables/dt23_226.40.asp#:~:text=Table_content:%20header:%20%7C%20State%20%7C%202018%20%7C,%7C%202018:%20977%20%7C%202021:%2090%20%7C 
+- https://progresslearning.com/news-blog/average-sat-scores-by-state/
